@@ -3,6 +3,8 @@ A ScrollView that supports pull-to-refresh. You can customize it with the Refres
 
 **This component is under development.**
 
+This is forked from [react-native-refreshable-scroll-view](https://github.com/exponentjs/react-native-refreshable-scroll-view)
+
 # Installation and Usage
 
-Use this with react-native 0.8.0-rc.
+Use this with react-native 14.0.
