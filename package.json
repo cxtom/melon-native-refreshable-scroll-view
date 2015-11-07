@@ -1,11 +1,11 @@
 {
-  "name": "react-native-refreshable-scroll-view",
+  "name": "melon-native-refreshable-scroll-view",
   "version": "0.0.9",
   "description": "A ScrollView that supports pull-to-refresh. You can customize it with the RefreshIndicator and type of ScrollView (ex: ListView) of your choice.",
   "main": "RefreshableScrollView.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/exponentjs/react-native-refreshable-scroll-view.git"
+    "url": "git+https://github.com/react-melon/melon-native-refreshable-scroll-view.git"
   },
   "keywords": [
     "react-native",
@@ -15,9 +15,9 @@
   "author": "James Ide",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/exponentjs/react-native-refreshable-scroll-view/issues"
+    "url": "https://github.com/react-melon/melon-native-refreshable-scroll-view/issues"
   },
-  "homepage": "https://github.com/exponentjs/react-native-refreshable-scroll-view#readme",
+  "homepage": "https://github.com/react-melon/melon-native-refreshable-scroll-view#readme",
   "dependencies": {
     "react-native-clone-referenced-element": "^1.0.0",
     "react-native-scrollable-mixin": "^1.0.0",
